@@ -1,3 +1,6 @@
+# mdBook build output
+rust-book-bn/book/
+
 # Rust Book Bangla Translation — artifacts ও upstream clones
 rust-book-source/
 rust-book-source-preprocessed/
