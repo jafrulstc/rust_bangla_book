@@ -2,6 +2,10 @@
 
 [Rust Book][rust-book] (rust-lang/book) এর সম্পূর্ণ বাংলা অনুবাদ।
 
+[![Deploy to GitHub Pages](https://github.com/jafrulstc/rust_bangla_book/actions/workflows/deploy.yml/badge.svg)](https://github.com/jafrulstc/rust_bangla_book/actions/workflows/deploy.yml)
+
+📖 **Online পড়ুন:** https://jafrulstc.github.io/rust_bangla_book/
+
 ## অনুবাদের বৈশিষ্ট্য
 
 - **ভাষা:** চলিত ভাষা (আমি/তুমি রূপ)
