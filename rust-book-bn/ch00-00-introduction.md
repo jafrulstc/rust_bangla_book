@@ -104,7 +104,7 @@ chapter গুলোতে তুমি Rust-এর একটি দিক স�
 world!" program লিখতে হয়, এবং কীভাবে Cargo—Rust-এর package manager ও build
 tool—ব্যবহার করতে হয়। **Chapter 2** হলো Rust-এ program লেখার একটি hands-on পরিচিতি,
 যেখানে তুমি একটি number-guessing game বানাবে। এখানে আমরা concept গুলো উঁচু স্তরে
-cover করবো, এবং পরের chapter গুলো বিস্তারিত জানাবে। যদি তুমি সাথে সাথে হাত নোংরা
+cover করবো, এবং পরের chapter গুলো বিস্তারিত জানাবে। যদি তুমি সাথে সাথে হাত কলমে-কাজ
 করতে চাও, Chapter 2-ই সেই জায়গা। যদি তুমি এমন একজন পরিশ্রমী learner হও যে পরের
 ধাপে যাওয়ার আগে সব detail শিখতে পছন্দ করে, তাহলে তুমি হয়তো Chapter 2 skip করে
 সরাসরি **Chapter 3**-এ যেতে পারো, যেখানে অন্যান্য programming language-এর মতো Rust

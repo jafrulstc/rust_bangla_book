@@ -1,0 +1,8 @@
+[build]
+  base = "rust-book-bn"
+  publish = "book"
+  command = "cargo install mdbook && mdbook build"
+
+[build.environment]
+  # Cache the cargo bin directory to speed up future builds
+  CARGO_HOME = "/opt/buildhome/.cargo"
