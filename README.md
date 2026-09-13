@@ -3,6 +3,7 @@
 [Rust Book][rust-book] (rust-lang/book) এর সম্পূর্ণ বাংলা অনুবাদ।
 
 [![Deploy to GitHub Pages](https://github.com/jafrulstc/rust_bangla_book/actions/workflows/deploy.yml/badge.svg)](https://github.com/jafrulstc/rust_bangla_book/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 📖 **Online পড়ুন:** https://jafrulstc.github.io/rust_bangla_book/
 

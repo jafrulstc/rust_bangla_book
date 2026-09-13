@@ -5,6 +5,7 @@ language = "bn"
 description = "The Rust Programming Language বইটির সম্পূর্ণ বাংলা অনুবাদ (চলিত ভাষা)"
 multilingual = false
 src = "."
+isbn = ""
 
 [output.html]
 default-theme = "light"
@@ -15,6 +16,8 @@ edit-url-template = "https://github.com/jafrulstc/rust_bangla_book/edit/main/rus
 additional-css = []
 additional-js = []
 no-section-label = false
+site-url = "https://jafrulstc.github.io/rust_bangla_book/"
+cname = "jafrulstc.github.io"
 
 [output.html.search]
 enable = true
