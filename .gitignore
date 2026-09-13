@@ -1,0 +1,31 @@
+# Rust Book Bangla Translation — artifacts ও upstream clones
+rust-book-source/
+rust-book-source-preprocessed/
+rust-book-source-preprocessed.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Sandbox artifacts
+tool-results/
+upload/
+index.html
+
+# Logs (besides worklog.md which we keep)
+dev.log
+
+# NEVER commit secrets / deploy keys
+deploy_key.txt
+deploy_key
+*.pem
+id_rsa
+id_ed25519
+.env
+.env.local

@@ -1,0 +1,3 @@
+# Enums এবং Pattern Matching
+
+এই chapter-এ আমরা enumerations নিয়ে আলোচনা করবো, যেগুলোকে _enums_ বলা হয়। Enums তোমাকে একটি type-এর সম্ভাব্য variants গুলো enumerate (একে একে গণনা) করার মাধ্যমে সেই type define করার সুযোগ দেয়। প্রথমে আমরা একটি enum define ও use করে দেখাবো কীভাবে একটি enum data-র সাথে অর্থ (meaning) encode করতে পারে। এরপর আমরা একটি বিশেষ কাজের enum ঘুঁটে দেখবো যার নাম `Option` — এটি এমন একটি ধারণা প্রকাশ করে যেখানে একটি value হয় কিছু একটা হতে পারে নয়তো কিছুই না। তারপর দেখবো কীভাবে `match` expression-এর ভেতরে pattern matching-এর মাধ্যমে একটি enum-এর ভিন্ন ভিন্ন value-র জন্য ভিন্ন ভিন্ন code run করা সহজ হয়ে যায়। সবশেষে আমরা শিখবো কীভাবে `if let` construct-টি enum handle করার জন্য আরেকটি সুবিধাজনক ও concise idiom হিসেবে কাজে লাগানো যায়।
